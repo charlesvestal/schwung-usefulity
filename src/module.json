@@ -60,6 +60,7 @@
             },
             {
               "key": "bass_freq",
+              "short_name": "Freq",
               "label": "Bass Freq",
               "type": "int",
               "min": 50,
@@ -129,6 +130,7 @@
             },
             {
               "key": "bass_audition",
+              "short_name": "Audition",
               "label": "Bass Audition",
               "type": "enum",
               "options": [
